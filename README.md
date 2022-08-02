@@ -1,5 +1,5 @@
-###Hi there 👋
-I'm a Front-End Developer working in Ankara, Turkey.
+### Hi there 👋
+#### I'm a Front-End Developer working in Ankara, Turkey.
 
 - 🔭 I’m currently working on React.js, Javascript, HTML and CSS
 - 🌱 I’m currently learning React.js
