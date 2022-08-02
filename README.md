@@ -6,8 +6,8 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://https://www.linkedin.com/in/can-kilicc-)
-[![website](./img/linkedin-dark.svg)](https://https://www.linkedin.com/in/can-kilicc-)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/can-kilicc-)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/can-kilicc-)
 &nbsp;&nbsp;
 
 
