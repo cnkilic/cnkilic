@@ -6,8 +6,8 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/can-kilicc-)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/can-kilicc-)
+
+<a href="https://www.linkedin.com/in/can-kilicc-" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cankilic" height="30" width="30" /></a>
 &nbsp;&nbsp;
 
 
@@ -26,7 +26,8 @@
 
 
 <!--
-
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/can-kilicc-)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/can-kilicc-)
 **cnkilic/cnkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
