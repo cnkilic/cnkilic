@@ -24,10 +24,12 @@ I'm a Front-End Developer working in Ankara, Turkey.
 
 
 <!--
+
 **cnkilic/cnkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Link for img sources
+https://github.com/codeSTACKr/codeSTACKr
 - 🔭 I’m currently working on ...React.js, Javascript, HTML and CSS
 - 🌱 I’m currently learning ...React.js
 - 👯 I’m looking to collaborate on ...
