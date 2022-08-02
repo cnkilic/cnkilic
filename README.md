@@ -7,7 +7,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/can-kilicc-" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cankilic" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/can-kilicc-" target="blank"><img align="center" src="./img/linkedin.png" alt="cankilic" height="30" width="30" /></a>
 &nbsp;&nbsp;
 
 
