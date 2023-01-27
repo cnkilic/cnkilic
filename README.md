@@ -13,6 +13,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" height="26px" src="./img/redux.png" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
@@ -24,6 +25,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="32px" height="26px" src="./img/bootstrap.png" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="30px" height="26px" src="./img/figma.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" height="26px" src="./img/XD.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" height="26px" src="./img/postman.webp" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" height="26px" src="./img/firebase2.png" style="padding-right:10px;" />
+
 
 <!--
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/can-kilicc-)
